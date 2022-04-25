@@ -1,8 +1,8 @@
-package FacadePattern.System;
+package FacadePattern.system;
 
-class HelloSystem3 {
+class HelloSystem2 {
 
-	public HelloSystem3(){
+	public HelloSystem2(){
 		System.out.println(this.getClass().getSimpleName());
 	}
 

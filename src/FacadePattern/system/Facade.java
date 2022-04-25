@@ -1,4 +1,4 @@
-package FacadePattern.System;
+package FacadePattern.system;
 
 public class Facade {
 

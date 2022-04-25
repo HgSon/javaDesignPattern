@@ -1,6 +1,6 @@
 package FacadePattern;
 
-import FacadePattern.System.Facade;
+import FacadePattern.system.Facade;
 
 public class Application {
 	public static void main(String[] args) {
